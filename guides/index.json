@@ -1,0 +1,45 @@
+[
+  {
+    "id": "qinggan-2026",
+    "status": "published",
+    "title": "青甘大环线 · 国庆错峰床车自驾",
+    "subtitle": "大连 ⇄ 西宁 ⇄ 青甘环线 · 2026/09/24 晚出发，10/07 午到家",
+    "emoji": "{{icon:mountains}}",
+    "color": "linear-gradient(135deg,#b8956b 0%,#d4b88a 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-09",
+    "badge": "{{icon:calendar-blank}} 2026 国庆错峰版",
+    "modes": [
+      "自驾"
+    ],
+    "cities": 13
+  },
+  {
+    "id": "chuanyu-2026",
+    "status": "published",
+    "title": "川渝地区九天八晚旅行笔记",
+    "subtitle": "大连 ⇄ 重庆 ⇄ 内江/自贡/乐山 ⇄ 眉山 ⇄ 成都 ⇄ 大连 · 2026/03/21 出发",
+    "emoji": "{{icon:fork-knife}}",
+    "color": "linear-gradient(135deg,#c0392b 0%,#e67e22 55%,#f5efe6 130%)",
+    "updatedAt": "2026-07-15",
+    "badge": "{{icon:calendar-blank}} 2026 春 · 9天8晚",
+    "modes": [
+      "自驾",
+      "公共交通"
+    ],
+    "cities": 8
+  },
+  {
+    "id": "dalian-qiqihaer-2026",
+    "status": "published",
+    "title": "大连 ⇄ 齐齐哈尔 · 五一东北小环线",
+    "subtitle": "大连自驾出发 · 2026/04/30 晚 – 05/05 · 全程睡车里 + 洗浴中心",
+    "emoji": "{{icon:car}}",
+    "color": "linear-gradient(135deg,#3b82f6 0%,#6366f1 55%,#a855f7 130%)",
+    "updatedAt": "2026-08-10",
+    "badge": "{{icon:calendar-blank}} 2026 五一版",
+    "modes": [
+      "自驾"
+    ],
+    "cities": 9
+  }
+]

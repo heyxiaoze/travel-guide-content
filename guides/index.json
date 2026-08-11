@@ -56,5 +56,19 @@
       "床车"
     ],
     "cities": 4
+  },
+  {
+    "id": "dalian-anshan-eat-2026",
+    "status": "published",
+    "title": "大连 ⇄ 鞍山 · 周末纯吃自驾",
+    "subtitle": "站前烧烤·海城牛庄馅饼·南果梨(伴手礼) · 周五晚出发·周日晚回大连 · 睡酒店",
+    "emoji": "{{icon:car}}",
+    "color": "linear-gradient(135deg,#c2410c 0%,#ea580c 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-11",
+    "badge": "{{icon:calendar-blank}} 2026 周末版",
+    "modes": [
+      "自驾"
+    ],
+    "cities": 3
   }
 ]

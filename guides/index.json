@@ -41,5 +41,20 @@
       "自驾"
     ],
     "cities": 9
+  },
+  {
+    "id": "dalian-yingkou-2026",
+    "status": "published",
+    "title": "大连 ⇄ 营口 · 周末床车逛吃",
+    "subtitle": "鲅鱼圈·熊岳·盖州 · 2天1晚 · SUV睡车里 + 熊岳温泉洗澡",
+    "emoji": "{{icon:car}}",
+    "color": "linear-gradient(135deg,#0ea5e9 0%,#14b8a6 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-11",
+    "badge": "{{icon:calendar-blank}} 2026 周末版",
+    "modes": [
+      "自驾",
+      "床车"
+    ],
+    "cities": 4
   }
 ]

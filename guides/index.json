@@ -70,5 +70,20 @@
       "自驾"
     ],
     "cities": 3
+  },
+  {
+    "id": "dalian-qinggan-bedcar-2026",
+    "status": "published",
+    "title": "大连 ⇄ 青甘 · 床车纯吃自驾",
+    "subtitle": "1人床车·满电450km·9/24晚出发·10/7午回大连·避开国庆人潮·美食为主",
+    "emoji": "{{icon:car}}",
+    "color": "linear-gradient(135deg,#0ea5e9 0%,#14b8a6 50%,#f5efe6 130%)",
+    "updatedAt": "2026-08-12",
+    "badge": "{{icon:calendar-blank}} 2026 国庆前版",
+    "modes": [
+      "自驾",
+      "床车"
+    ],
+    "cities": 12
   }
 ]

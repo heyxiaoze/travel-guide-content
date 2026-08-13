@@ -85,5 +85,19 @@
       "床车"
     ],
     "cities": 12
+  },
+  {
+    "id": "dalian-xiuyan-2026",
+    "status": "published",
+    "title": "大连 ⇄ 岫岩（鞍山）· 周末 citywalk 逛吃",
+    "subtitle": "玉都逛玉·满族羊汤配筋饼·滑子蘑 · 两天一夜 · 大连自驾直下岫岩 · 睡华住会酒店",
+    "emoji": "{{icon:gem}}",
+    "color": "linear-gradient(135deg,#0f766e 0%,#14b8a6 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-13",
+    "badge": "{{icon:calendar-blank}} 2026 周末版",
+    "modes": [
+      "自驾"
+    ],
+    "cities": 2
   }
 ]

@@ -1,0 +1,5 @@
+# 运行时/工具缓存（不要纳入版本库）
+.workbuddy/
+
+# macOS
+.DS_Store

@@ -1,5 +1,17 @@
 [
   {
+    "id": "changchun-weekend",
+    "status": "published",
+    "title": "长春周末 · 一个人的纯吃暴走",
+    "subtitle": "大连 ⇄ 长春 · 硬卧往返 · 火锅+小吃+朝鲜族+老字号",
+    "emoji": "{{icon:fork-knife}}",
+    "color": "linear-gradient(135deg,#c0392b 0%,#e67e22 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-14",
+    "badge": "{{icon:calendar-blank}} 纯吃 · 一人食",
+    "modes": ["火车", "公共交通"],
+    "cities": 1
+  },
+  {
     "id": "jinzhou-weekend",
     "status": "published",
     "title": "锦州周末 · 烧烤与早市夜市的两天两晚",

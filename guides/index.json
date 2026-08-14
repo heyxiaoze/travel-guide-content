@@ -1,5 +1,17 @@
 [
   {
+    "id": "jinzhou-weekend",
+    "status": "published",
+    "title": "锦州周末 · 烧烤与早市夜市的两天两晚",
+    "subtitle": "大连 ⇄ 锦州 · 2026/08/14 晚–08/16 · 高铁+citywalk+吃喝",
+    "emoji": "{{icon:fork-knife}}",
+    "color": "linear-gradient(135deg,#e2603b 0%,#f0a04b 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-14",
+    "badge": "{{icon:calendar-blank}} 2026 周末版",
+    "modes": ["高铁", "公共交通"],
+    "cities": 2
+  },
+  {
     "id": "qinggan-2026",
     "status": "published",
     "title": "青甘大环线 · 国庆错峰床车自驾",

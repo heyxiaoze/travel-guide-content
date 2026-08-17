@@ -12,18 +12,6 @@
     "cities": 11
   },
   {
-    "id": "wanzhou-eating",
-    "status": "published",
-    "title": "万州 5 天半 · 烤鱼之乡的纯吃慢游",
-    "subtitle": "万州烤鱼/格格/杂酱面/芥末凉面 · 大瀑布/天生城/龙缸/白帝城",
-    "emoji": "{{icon:fork-knife}}",
-    "color": "linear-gradient(135deg,#c0392b 0%,#f39c12 55%,#f5efe6 130%)",
-    "updatedAt": "2026-08-17",
-    "badge": "{{icon:calendar-blank}} 2026 国庆错峰版",
-    "modes": ["自驾"],
-    "cities": 3
-  },
-  {
     "id": "changchun-weekend",
     "status": "published",
     "title": "长春周末 · 一个人的纯吃暴走",

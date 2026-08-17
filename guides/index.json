@@ -1,5 +1,17 @@
 [
   {
+    "id": "dalian-qinghai-gansu",
+    "status": "published",
+    "title": "大连 ⇄ 青海·甘肃 · 纯电床车美食线",
+    "subtitle": "北线直达西宁 + 青海东部/甘肃中南美食小城 · 9/24 晚–10/7 午 · 85度电纯电·全程睡车里·一人",
+    "emoji": "{{icon:car}}",
+    "color": "linear-gradient(135deg,#2e8b57 0%,#3cb371 55%,#f5efe6 130%)",
+    "updatedAt": "2026-08-17",
+    "badge": "{{icon:calendar-blank}} 2026 国庆美食线",
+    "modes": ["自驾"],
+    "cities": 12
+  },
+  {
     "id": "dalian-wanzhou-roadtrip",
     "status": "published",
     "title": "大连 ⇄ 万州 · 13 天吃面环线自驾",
